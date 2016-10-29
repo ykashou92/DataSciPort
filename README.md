@@ -2,9 +2,8 @@
 
 Welcome to my personal data science portfolio of data analyses, visualizations, machine learning implementations, and artificial intelligence.  
 You are all encouraged to explore and share in my learning experience.  
-
-### Best Thoughts,
-### Yanal Kashou
+__*Best Thoughts,*__
+__*Yanal Kashou*__
 
 
 # Note
