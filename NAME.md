@@ -10,10 +10,9 @@ Project number 0001 - Name(template) - Type(Data Analysis) - Language (R)
 
 Later numbers are more recent, hence usually higher level and more challenging.  
 ### Example:  
-0002-Faces-DA-Julia  
-Project number 0002 - Faces - Data Analysis - Julia  
-0003-Tweets-ML-Python  
-Project number 0003 - Tweets - Machine Learning - Python  
+Filename | Translation
+0002-Faces-DA-Julia | Project number 0002 - Faces - Data Analysis - Julia  
+0003-Tweets-ML-Python | Project number 0003 - Tweets - Machine Learning - Python  
 
 ## Types Type  
 Symbol | Type
