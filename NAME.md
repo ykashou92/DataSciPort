@@ -16,6 +16,8 @@ Project number 0002 - Faces - Data Analysis - Julia
 Project number 0003 - Tweets - Machine Learning - Python  
 
 ## Types Type  
+Symbol | Type
+--- | ---
 DA | Data Analysis  
 DV | Data Visualization  
 ML | Machine Learning  
