@@ -5,8 +5,9 @@ Because this repo contains files/generated reports in extensions such as .pdf, t
 Either way, description of each project will be in README.md  
 
 ## Template:
-0001-template-DA-R  
-Project number 0001 - Name(template) - Type(Data Analysis) - Language (R)  
+Filename | Translation
+--- | ---
+0001-template-DA-R | Project number 0001 - Name(template) - Type(Data Analysis) - Language (R)  
 
 Later numbers are more recent, hence usually higher level and more challenging.  
 ### Example:  
