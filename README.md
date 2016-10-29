@@ -20,5 +20,6 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 **Investigation of the exponential distribution in R and comparison with the CLT**   
 [0003-ExpNorm-SI-R.pdf]()    
 **Analysis of Earthquake data and visualization with Respect to Geolocation**    
-[0004-EQ-DV-R.pdf]()   
+[0004-EQ-DV-R.pdf]()  
+**
 
