@@ -1,5 +1,11 @@
 # DataSciPort
-My personal data science portfolio of data analyses, visualizations, machine learning implementations, and artificial intelligence.
+Hi all! 
+
+Welcome to my personal data science portfolio of data analyses, visualizations, machine learning implementations, and artificial intelligence.  
+You are all encouraged to explore and share in my learning experience.  
+
+Thanks, 
+*Yanal Kashou*
 
 # Note
 Please visit [NAMES](https://github.com/ykashou92/DataSciPort/blob/master/NAMES.md) for a clarification on the naming convention.  
