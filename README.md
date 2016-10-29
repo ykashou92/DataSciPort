@@ -24,8 +24,8 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 **Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
 [0005-Fit-ML-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0005-Fit-ML-R.ipynb)  
 **My first shiny web app - Interactive Earthquake visualization**  
-[0006-EQ-DV-Shiny](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0006-EQ-DV-Shiny.md)  
+[0006-EQ-DV-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0006-EQ-DV-Shiny.md)  
 **My second shiny web app - Data mining, text (news) mining and simple technical analysis charting**  
-[0007-TechReporter-DMTM-Shiny]()  
+[0007-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0007-TechReporter-DMTM-Shiny.md)  
 **My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset**  
-[0008-Letters-ImgProcML-Julia]()  
+[0008-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-Letters-ImgProcML-Julia.ipynb)  
