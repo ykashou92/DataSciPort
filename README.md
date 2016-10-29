@@ -30,4 +30,6 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 *(Pending) My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
 [0008-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-Letters-ImgProcML-Julia.ipynb)  
 *(Pending) Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
-[0009-Praedictio-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-Praedictio-NLP-Shiny.md)
+[0009-Praedictio-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-Praedictio-NLP-Shiny.md)  
+*(Pending) Tweet Clustering with R*  
+[0010-TweetCluster-NLP.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-TweetCluster-NLP.ipynb)
