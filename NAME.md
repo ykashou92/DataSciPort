@@ -26,3 +26,6 @@ DA | Data Analysis
 DV | Data Visualization  
 ML | Machine Learning  
 SI | Statistical Inference  
+DM | Data Mining
+TM | Text Mining
+ImgProc | Image Processing
