@@ -29,5 +29,5 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 [0007-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0007-TechReporter-DMTM-Shiny.md)  
 *(Pending) My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
 [0008-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-Letters-ImgProcML-Julia.ipynb)  
-**(Pending) Text Prediction App - NLP - Data Science Capstone Project @Coursera**  
+*(Pending) Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
 [0009-Praedictio-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-Praedictio-NLP-Shiny.md)
