@@ -8,11 +8,11 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 
 # [Projects](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT)
 
-[0001-TGrowth-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0001-TGrowth-DA-R.pdf) 
-**Exploratory Analysis of ToothGrowth dataset in R** 
+[0001-TGrowth-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0001-TGrowth-DA-R.pdf)  
+**Exploratory Analysis of ToothGrowth dataset in R**  
 [0002-Storm-DA-R.pdf]() 	
-**Analysis of Storm Data in the USA**
+**Analysis of Storm Data in the USA**  
 [0003-ExpNorm-SI-R.pdf]()  
-**Investigation of the exponential distribution in R and comparison with the CLT**
+**Investigation of the exponential distribution in R and comparison with the CLT**  
 [0004-EQ-DV-R.pdf]()  
-**Earthquake Data Analysis with Respect to Geolocation**
+**Earthquake Data Analysis with Respect to Geolocation**  
