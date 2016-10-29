@@ -20,9 +20,9 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 **Investigation of the exponential distribution in R and comparison with the CLT**   
 [0003-ExpNorm-SI-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0003-ExpNorm-SI-R.pdf)      
 **Analysis of Earthquake data and visualization with Respect to Geolocation**    
-[0004-EQ-DV-R.pdf]()   
+[0004-EQ-DV-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0004-EQ-DV-R.pdf)   
 **Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
-[0005-Fit-ML-R.md]()  
+[0005-Fit-ML-R.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0005-Fit-ML-R.ipynb)  
 **My first shiny web app - Interactive Earthquake visualization**  
 [0006-EQ-DV-Shiny]()  
 **My second shiny web app - Data mining, text (news) mining and simple technical analysis charting**  
