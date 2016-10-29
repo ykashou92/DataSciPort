@@ -21,11 +21,11 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 [0003-ExpNorm-SI-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0003-ExpNorm-SI-R.pdf)      
 **Analysis of Earthquake data and visualization with Respect to Geolocation**    
 [0004-EQ-DV-R.pdf]()   
-**Practical Machine Learning - Implementation of ML Algorithms to predict physical movement from gyroscope-accelerometer data**  
+**Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
 [0005-Fit-ML-R.md]()  
 **My first shiny web app - Interactive Earthquake visualization**  
 [0006-EQ-DV-Shiny]()  
-**My second shiny web app - Data mining, text (news) mining and simple technical analysis report of stock markets based on stock symbol entered.**  
+**My second shiny web app - Data mining, text (news) mining and simple technical analysis charting**
 [0007-TechReporter-DMTM-Shiny]()  
 **My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset**  
 [0008-Letters-ImgProcML-Julia]()  
