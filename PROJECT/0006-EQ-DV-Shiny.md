@@ -1,0 +1,2 @@
+App [URL](https://ykashou92/shinyapp.io/earthquake-app)
+Repo [URL](https://github.com/ykashou92/DevelopingDataProducts)
