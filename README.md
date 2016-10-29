@@ -8,7 +8,7 @@ __*Yanal Kashou*__
 
 
 # Note
-Please visit [NAMES](https://github.com/ykashou92/DataSciPort/blob/master/NAMES.md) for a clarification on the naming convention.  
+Please visit [NAME](https://github.com/ykashou92/DataSciPort/blob/master/NAME.md) for a clarification on the naming convention.  
 Please visit [LICENSE](https://github.com/ykashou92/DataSciPort/blob/master/LICENSE) for a clarification on terms of use.  
 Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT) for accessing the projects (also individually linked below).  
 
