@@ -1,12 +1,11 @@
 # Naming Conventions
 
+## Note
+Please note that some projects, implemeted/deployed cannot be shared in the form of a file or report, hence will follow the same naming convention but will link to another GitHub repository of mine containing the project.  
+
 Because this repo contains files/generated reports in extensions such as .pdf, there will be a way to specify which language each report is written in.  
 
 Either way, description of each project will be in [README.md](https://github.com/ykashou92/DataSciPort/blob/master/README.md)  
-
-# Note
-Please note that some projects, implemeted/deployed cannot be shared in the form of a file or report, hence will follow the same naming convention but will link to another GitHub repository of mine containing the project
-
 
 ## Template:
 Filename | Translation
