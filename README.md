@@ -32,4 +32,4 @@ Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJ
 *(Pending) Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
 [0009-Praedictio-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-Praedictio-NLP-Shiny.md)  
 *(Pending) Tweet Clustering with R*  
-[0010-TweetCluster-NLP.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-TweetCluster-NLP.ipynb)
+[0010-TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-TweetCluster-NLP.ipynb)
