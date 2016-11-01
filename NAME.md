@@ -29,3 +29,4 @@ SI | Statistical Inference
 DM | Data Mining
 TM | Text Mining
 ImgProc | Image Processing
+NLP | Natural Language Processing
