@@ -1,4 +1,4 @@
-# 0006-EQ-DV-Shiny
+# 0007-EQ-DV-Shiny
 
 ### App URL:  
 [https://ykashou92.shinyapps.io/earthquake-app](https://ykashou92.shinyapps.io/earthquake-app)  
