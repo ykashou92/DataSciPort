@@ -39,4 +39,4 @@ Projects are sorted in descending chronological order.
 **Exploratory analysis of ToothGrowth dataset in R**  
 [0002-TGrowth-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0002-TGrowth-DA-R.pdf)  
 **Quantitative Analysis of Signalised Pedestrian Crossings in Excel and R**  
-[0001-Pedestrian-DCDA-Excel+R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0002-TGrowth-DA-R.pdf)  
+[0001-Pedestrian-DCDA-Excel+R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0001-Pedestrian-DCDA-Excel+R.pdf)  
