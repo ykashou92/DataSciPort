@@ -20,6 +20,8 @@ Projects are sorted in descending chronological order.
 [0011-TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-TweetCluster-NLP.ipynb)  
 *My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
 [0010-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-Letters-ImgProcML-Julia.ipynb)  
+
+## Status: In Progress
 *My second shiny web app - Data mining, text (news) mining and simple technical analysis charting*  
 [0009-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-TechReporter-DMTM-Shiny.md)  
 *Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
