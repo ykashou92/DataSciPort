@@ -18,12 +18,12 @@ Projects are sorted in descending chronological order.
 ## Status: Pending
 *Tweet Clustering with R*  
 [0011-TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-TweetCluster-NLP.ipynb)  
-*Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
-[0010-Praedictio-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-Praedictio-NLP-Shiny.md)  
 *My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
-[0009-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-Letters-ImgProcML-Julia.ipynb)  
+[0010-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-Letters-ImgProcML-Julia.ipynb)  
 *My second shiny web app - Data mining, text (news) mining and simple technical analysis charting*  
-[0008-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-TechReporter-DMTM-Shiny.md)  
+[0009-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-TechReporter-DMTM-Shiny.md)  
+*Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
+[0008-DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-DSCapstone-NLP-Shiny.md)   
 
 ## Status: Completed
 **My first shiny web app - Interactive Earthquake visualization**  
