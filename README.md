@@ -7,10 +7,13 @@ __*Thoughtfully yours,*__
 __*Yanal Kashou*__
 
 
-# Note
+# Links
 Please visit [NAME](https://github.com/ykashou92/DataSciPort/blob/master/NAME.md) for a clarification on the naming convention.  
 Please visit [LICENSE](https://github.com/ykashou92/DataSciPort/blob/master/LICENSE) for a clarification on terms of use.  
 Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT) for accessing the projects (also individually linked below).  
+
+# Notes
+Some .ipynb files will note render plots properly here at GitHub, so the files, though accessible through [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT), will redirect towards a preview with Jupyter Notebook Viewer.
 
 # [Projects](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT)
 Projects are sorted in descending chronological order.
@@ -29,7 +32,7 @@ Projects are sorted in descending chronological order.
 
 ## Status: Completed
 **Basic Data Analysis, Manipulation and Statistical Inference using Julia 0.5.0**  
-[0008-Diamond-DADMSI-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-Diamond-DADMSI-Julia.ipynb)    
+[0008-Diamond-DADMSI-Julia.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0008-Diamond-DADMSI-Julia.ipynb)    
 **My first shiny web app - Interactive Earthquake visualization**  
 [0007-EQ-DV-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0007-EQ-DV-Shiny.md)  
 **Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
