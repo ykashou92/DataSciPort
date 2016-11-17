@@ -23,15 +23,15 @@ Projects are sorted in descending chronological order.
 
 ## Status: Pending
 *Tweet Clustering with R*  
-[0011-TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-TweetCluster-NLP.ipynb)  
+[TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TweetCluster-NLP.ipynb)  
 *My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
-[0010-Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0010-Letters-ImgProcML-Julia.ipynb)  
+[Letters-ImgProcML-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/Letters-ImgProcML-Julia.ipynb)  
 
 ## Status: In Progress
 *My second shiny web app - Data mining, text (news) mining and simple technical analysis charting*  
-[0009-TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0009-TechReporter-DMTM-Shiny.md)  
+[TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TechReporter-DMTM-Shiny.md)  
 *Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
-[0008-DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-DSCapstone-NLP-Shiny.md)   
+[DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/DSCapstone-NLP-Shiny.md)   
 
 ## Status: Completed
 **Basic Data Analysis, Manipulation and Statistical Inference using Julia 0.5.0**  
