@@ -23,7 +23,8 @@ Filename | Translation
 Symbol | Type
 --- | ---
 DA | Data Analysis  
-DV | Data Visualization  
+DV | Data Visualization
+DM | Data Manipulation
 ML | Machine Learning  
 SI | Statistical Inference  
 DM | Data Mining
