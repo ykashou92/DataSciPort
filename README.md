@@ -34,6 +34,8 @@ Projects are sorted in descending chronological order.
 [DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/DSCapstone-NLP-Shiny.md)   
 
 ## Status: Completed
+**Visualization of Exoplanet Data using Python**  
+[0010-Exoplanets-DV-Python.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0010-Exoplanets-DV-Python.ipynb)  
 **Basic Data Analysis & Visualization using Python**  
 [0009-PorschePrices-DADV-Python.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0009-PorschePrices-DADV-Python.ipynb)   
 **Basic Data Analysis, Manipulation and Statistical Inference using Julia 0.5.0**  
