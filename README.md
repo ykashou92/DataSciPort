@@ -28,6 +28,8 @@ Projects are sorted in descending chronological order.
 [0008-DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-DSCapstone-NLP-Shiny.md)   
 
 ## Status: Completed
+**Basic Data Analysis, Manipulation and Statistical Inference using Julia 0.5.0**  
+[0008-Diamond-DADMSI-Julia.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0008-Diamond-DADMSI-Julia.ipynb)    
 **My first shiny web app - Interactive Earthquake visualization**  
 [0007-EQ-DV-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0007-EQ-DV-Shiny.md)  
 **Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
