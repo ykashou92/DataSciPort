@@ -39,7 +39,7 @@ Projects are sorted in descending chronological order.
 **My first shiny web app - Interactive Earthquake visualization**  
 [0007-EQ-DV-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0007-EQ-DV-Shiny.md)  
 **Implementation of ML algorithms to predict physical movement from gyroscope-accelerometer data**  
-[0006-Fit-ML-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0006-Fit-ML-R.ipynb)  
+[0006-Fit-ML-R.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0006-Fit-ML-R.ipynb)  
 **Analysis of Earthquake data and visualization with Respect to Geolocation**    
 [0005-EQ-DV-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0005-EQ-DV-R.pdf)   
 **Investigation of the exponential distribution in R and comparison with the CLT**   
