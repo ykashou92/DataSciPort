@@ -13,9 +13,9 @@ Please visit [LICENSE](https://github.com/ykashou92/DataSciPort/blob/master/LICE
 Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT) for accessing the projects (also individually linked below).  
 
 # Notes
-* .ipynb
+* .ipynb  
 Will redirect towards a preview with Jupyter Notebook Viewer.
-* .md
+* .md  
 Simple markdown files for projects that contains the links to an app + repository. 
 
 # [Projects](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT)
