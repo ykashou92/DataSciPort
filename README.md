@@ -12,10 +12,10 @@ Please visit [NAME](https://github.com/ykashou92/DataSciPort/blob/master/NAME.md
 Please visit [LICENSE](https://github.com/ykashou92/DataSciPort/blob/master/LICENSE) for a clarification on terms of use.  
 Please visit [PROJECT](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT) for accessing the projects (also individually linked below).  
 
-# Notes wa
-## .ipynb
+# Notes
+* .ipynb
 Will redirect towards a preview with Jupyter Notebook Viewer.
-## .md
+* .md
 Simple markdown files for projects that contains the links to an app + repository. 
 
 # [Projects](https://github.com/ykashou92/DataSciPort/tree/master/PROJECT)
