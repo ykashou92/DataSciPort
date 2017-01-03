@@ -1,6 +1,6 @@
 # DataSciPort
 
-Welcome to my personal data science portfolio of data analyses, visualizations, machine learning implementations, and artificial intelligence.  
+Welcome to my personal data science portfolio of data analyses, visualizations, products, machine learning implementations, and artificial intelligence.  
 You are all encouraged to explore and share in my learning experience.  
 
 __*Thoughtfully yours,*__  
