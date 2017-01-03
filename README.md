@@ -22,6 +22,8 @@ Simple markdown files for projects that contains the links to an app + repositor
 Projects are sorted in descending chronological order.
 
 ## Status: Pending
+*Earthquake App v2.0 - Radical Update to my first Earthquake related-app*  
+[Earthquake2.0-DV-shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/Earthquake2.0-DV-Shiny.md)  
 *Tweet Clustering with R*  
 [TweetCluster-NLP-R.ipynb](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TweetCluster-NLP.ipynb)  
 *My first Julia ML program - Detection and recognition of alphabet letters from GoogleStreetView dataset*  
