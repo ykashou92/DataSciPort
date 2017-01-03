@@ -30,10 +30,10 @@ Projects are sorted in descending chronological order.
 ## Status: In Progress
 *My second shiny web app - Data mining, text (news) mining and simple technical analysis charting*  
 [TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TechReporter-DMTM-Shiny.md)  
-*Text Prediction App - NLP - Data Science Capstone Project @Coursera*  
-[DSCapstone-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-DSCapstone-NLP-Shiny.md)   
 
 ## Status: Completed
+**Text Prediction App - NLP - Data Science Capstone Project @Coursera**  
+[0011-WordXWord-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-DSCapstone-NLP-Shiny.md)   
 **Visualization of Exoplanet Data using Python**  
 [0010-Exoplanets-DV-Python.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0010-Exoplanets-DV-Python.ipynb)  
 **Basic Data Analysis & Visualization using Python**  
