@@ -34,6 +34,8 @@ Projects are sorted in descending chronological order.
 [TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TechReporter-DMTM-Shiny.md)  
 
 ## Status: Completed
+**My first R package - **  
+[0012-SimpleRegex-Package-R.md](https://github.com/ykashou92/SimpleRegex)  
 **Text Prediction App - NLP - Data Science Capstone Project @Coursera**  
 [0011-WordXWord-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-DSCapstone-NLP-Shiny.md)   
 **Visualization of Exoplanet Data using Python**  
