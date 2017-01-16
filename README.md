@@ -32,11 +32,13 @@ Projects are sorted in descending chronological order.
 ## Status: In Progress
 *My second shiny web app - Data mining, text (news) mining and simple technical analysis charting*  
 [TechReporter-DMTM-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/TechReporter-DMTM-Shiny.md)  
+*EasyRegex - R Package - functions that makes life easier for users not familiar with Regex*  
+[EasyRegex-Package-R.md](https://github.com/ykashou92/EasyRegex)  
 
 ## Status: Completed
 **My first R package - It has 2 core functions that remove the first and last word from the a string input**  
 [0012-SimpleRegex-Package-R.md](https://github.com/ykashou92/SimpleRegex)  
-**Text Prediction App - NLP - Data Science Capstone Project @Coursera**  
+**WordXWord - Text Prediction App - NLP - Data Science Capstone Project @Coursera**  
 [0011-WordXWord-NLP-Shiny.md](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0011-DSCapstone-NLP-Shiny.md)   
 **Visualization of Exoplanet Data using Python**  
 [0010-Exoplanets-DV-Python.ipynb](http://nbviewer.jupyter.org/github/ykashou92/DataSciPort/blob/master/PROJECT/0010-Exoplanets-DV-Python.ipynb)  
