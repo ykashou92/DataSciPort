@@ -55,7 +55,7 @@ Projects are sorted in descending chronological order.
 **Investigation of the exponential distribution in R and comparison with the CLT**   
 [0004-ExpNorm-SI-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0004-ExpNorm-SI-R.pdf)      
 **Analysis of storm data in the USA**  
-[0003-Storm-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0003-Storm-DA-R.pdf) 	
+[0003-Storm-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0003-Storm-DA-R.pdf)  
 **Exploratory analysis of ToothGrowth dataset in R**  
 [0002-TGrowth-DA-R.pdf](https://github.com/ykashou92/DataSciPort/blob/master/PROJECT/0002-TGrowth-DA-R.pdf)  
 **Quantitative Analysis of Signalised Pedestrian Crossings in Excel and R**  
